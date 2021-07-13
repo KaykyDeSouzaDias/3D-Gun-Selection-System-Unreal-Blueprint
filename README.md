@@ -5,7 +5,7 @@ This project is a 3D gun selection system made with Unreal Engine blueprint, wit
 A playable form of the project for you to test it and enjoy it! \
 Let's go: https://drive.google.com/file/d/1hUqbY-B5BssrndXj2jKm-jVa7sb0GqE0/view?usp=sharing
 
-![](https://github.com/KaykyDeSouzaDias/3D-Gun-Selection-System-Unreal-Blueprint/blob/main/Imgs%26GIFs/GameplayGIF.gif)
+![](https://github.com/KaykyDeSouzaDias/3D-Gun-Selection-System-Unreal-Blueprint/blob/main/Imgs%26GIFs/3DGunSelectionGIF.gif)
 
 # Reference
 
